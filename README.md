@@ -1,6 +1,6 @@
 # b6t
 
-Fully-featured, minimal containerized [Blueboat](https://github.com/losfair/blueboat) suitable for self-hosting.
+Minimal containerized [Blueboat](https://github.com/losfair/blueboat) suitable for self-hosting.
 
 ## Usage
 
